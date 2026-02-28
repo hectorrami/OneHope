@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Night of Worship",
+    "date": "March 15, 2026",
+    "time": "7:00 PM",
+    "image": "/images/events/worship.jpg",
+    "category": "Special Event"
+  },
+  {
+    "id": 2,
+    "title": "Youth Group",
+    "date": "Every Friday",
+    "time": "6:30 PM",
+    "image": "/images/events/youthGroup.jpg",
+    "category": "Weekly"
+  }
+]
