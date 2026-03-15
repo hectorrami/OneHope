@@ -23,8 +23,8 @@ const Ministries: React.FC = () => {
               alt="Nursery"
             />
           </div>
-          <h3 className="text-3xl md:text-5xl font-black text-white uppercase italic tracking-tighter mb-6">
-            Baby Nursery
+          <h3 className="text-3xl md:text-5xl font-black text-white uppercase tracking-tighter mb-6">
+            Kids
           </h3>
           <p className="text-white/90 text-base md:text-lg font-medium leading-relaxed max-w-xs mb-10">
             Join us this Sunday morning. We'd love to meet you, show you around, and help you find your community.
@@ -43,8 +43,8 @@ const Ministries: React.FC = () => {
               alt="Juniors"
             />
           </div>
-          <h3 className="text-3xl md:text-5xl font-black text-white uppercase italic tracking-tighter mb-6">
-            Juniors Ministry
+          <h3 className="text-3xl md:text-5xl font-black text-white uppercase tracking-tighter mb-6">
+            Juniors 
           </h3>
           <p className="text-white/90 text-base md:text-lg font-medium leading-relaxed max-w-xs mb-10">
             Commit to attending six Sundays in a row. It takes time to find home, but we are here for you.
@@ -63,8 +63,8 @@ const Ministries: React.FC = () => {
               alt="Youth"
             />
           </div>
-          <h3 className="text-3xl md:text-5xl font-black text-white uppercase italic tracking-tighter mb-6">
-            Youth Ministry
+          <h3 className="text-3xl md:text-5xl font-black text-white uppercase tracking-tighter mb-6">
+            Youth 
           </h3>
           <p className="text-white/90 text-base md:text-lg font-medium leading-relaxed max-w-xs mb-10">
             A place for students to belong, ask questions, and discover a real relationship with Jesus.
