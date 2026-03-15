@@ -53,7 +53,7 @@ const OnlineGiving: React.FC = () => {
           {/* Theme Accent: Soft Rounded Image with Shadow */}
           <div className="relative aspect-video overflow-hidden rounded-[2.5rem] shadow-2xl shadow-slate-200">
             <img 
-              src="/images/giving.jpg" 
+              src="images/offering.jpg" 
               alt="Online Giving" 
               className="w-full h-full object-cover"
             />
