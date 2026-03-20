@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaXTwitter, FaInstagram, FaYoutube } from 'react-icons/fa6';
+import { FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa6';
 
 const Footer: React.FC = () => {
   return (
@@ -16,19 +16,12 @@ const Footer: React.FC = () => {
             Join us this Sunday as we grow together.
           </p>
           <div className="flex gap-4 text-xl mt-2">
-            <a href="#" className="hover:text-blue-500 transition-colors"><FaXTwitter /></a>
-            <a href="#" className="hover:text-blue-500 transition-colors"><FaInstagram /></a>
-            <a href="#" className="hover:text-blue-500 transition-colors"><FaYoutube /></a>
-          </div>
+                    <div className="flex justify-center gap-10 mt-12 text-2xl md:text-4xl">
+          <a href="https://www.facebook.com/IglesiaUnaEsperanza/" className="hover:text-blue-400 transition-all hover:scale-110"><FaFacebook /></a>
+          <a href="https://www.instagram.com/onehopechurchspring/" className="hover:text-pink-400 transition-all hover:scale-110"><FaInstagram /></a>
+          <a href="https://www.youtube.com/@iglesiaunaesperanza4112" className="hover:text-red-500 transition-all hover:scale-110"><FaYoutube /></a>
         </div>
-      </div>
-
-      {/* Bottom Copyright */}
-      <div className="max-w-7xl mx-auto mt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] uppercase tracking-widest text-slate-500 font-bold">
-        <p>© {new Date().getFullYear()} One Hope Church. All rights reserved.</p>
-        <div className="flex gap-6">
-          <a href="#" className="hover:text-white">Privacy Policy</a>
-          <a href="#" className="hover:text-white">Terms of Use</a>
+          </div>
         </div>
       </div>
     </footer>
