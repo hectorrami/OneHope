@@ -25,7 +25,7 @@ const Navbar: React.FC = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   return (
-    <nav className={`fixed w-full z-[100] transition-all duration-300 ${isScrolled ? 'bg-white/90 backdrop-blur-md py-4 shadow-md' : 'bg-transparent py-6'
+    <nav className={`fixed w-full z-[100] transition-all duration-300 ${isScrolled ? 'bg-white/90 backdrop-blur-md py-8 shadow-md' : 'bg-transparent py-12'
       }`}>
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
 
