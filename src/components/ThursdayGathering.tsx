@@ -2,7 +2,7 @@ import React from 'react';
 
 const ThursdayGathering: React.FC = () => {
   return (
-    <section className="bg-slate-950 text-white py-16 md:py-24 px-6 md:px-12 lg:px-20">
+    <section id="thursday-gathering" className="bg-slate-950 text-white py-16 md:py-24 px-6 md:px-12 lg:px-20">
       {/* Using bg-slate-950 for a rich black. 
         Note: We use padding (py-24) instead of margin (mt-24) here 
         so the black background color fills the entire gap between sections.

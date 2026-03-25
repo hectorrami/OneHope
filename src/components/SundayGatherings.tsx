@@ -2,7 +2,7 @@ import React from 'react';
 
 const SundayGathering: React.FC = () => {
   return (
-    <section className="bg-white text-slate-950 mt-16 md:mt-24 mb-16 md:mb-24 px-6 md:px-12 lg:px-20">
+    <section id="sunday-gathering" className="bg-white text-slate-950 mt-16 md:mt-24 mb-16 md:mb-24 px-6 md:px-12 lg:px-20">
       {/* mt-24 and mb-24 create a balanced "island" for this content */}
 
       <div className="grid grid-cols-1 md:grid-cols-2 min-h-[550px] md:min-h-[750px] items-stretch gap-10 md:gap-16">

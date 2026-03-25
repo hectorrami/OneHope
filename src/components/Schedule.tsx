@@ -3,7 +3,7 @@ import { HiOutlineClock, HiOutlineLocationMarker } from 'react-icons/hi';
 
 const Schedule: React.FC = () => {
   return (
-    <section className="py-20 bg-slate-50 px-6">
+    <section id="schedule" className="py-20 bg-slate-50 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-black uppercase italic tracking-tighter text-slate-900">
@@ -15,11 +15,11 @@ const Schedule: React.FC = () => {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-          
+
           {/* Sunday Services Card */}
           <div className="bg-white p-8 rounded-2xl shadow-sm border border-slate-200">
             <h3 className="text-2xl font-black text-blue-600 mb-6 uppercase italic">Sundays</h3>
-            
+
             <div className="space-y-8">
               <div className="flex gap-4">
                 <div className="bg-blue-50 p-3 rounded-lg h-fit text-blue-600 text-xl">
@@ -46,7 +46,7 @@ const Schedule: React.FC = () => {
           {/* Bible Study Card */}
           <div className="bg-slate-900 p-8 rounded-2xl shadow-xl text-white">
             <h3 className="text-2xl font-black text-blue-400 mb-6 uppercase italic">Mid-Week Study</h3>
-            
+
             <div className="space-y-8">
               <div className="flex gap-4">
                 <div className="bg-white/10 p-3 rounded-lg h-fit text-blue-400 text-xl">
