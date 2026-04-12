@@ -49,7 +49,7 @@ const Navbar: React.FC = () => {
             href="#giving"
             className="bg-blue-600 text-white px-6 py-2 rounded-full font-bold uppercase text-xs tracking-widest hover:bg-slate-900 transition-all"
           >
-            Donate
+            Give
           </a>
         </div>
 

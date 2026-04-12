@@ -16,7 +16,9 @@ const SundayGathering: React.FC = () => {
           </div>
 
           <h2 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-slate-950 uppercase tracking-tighter leading-[0.9] mb-8">
-            Sundays At 11:00AM & 1:00PM
+            11:00AM
+            <br />
+            1:00PM (Español)
           </h2>
 
           <div className="space-y-6 text-slate-600 mb-12">
