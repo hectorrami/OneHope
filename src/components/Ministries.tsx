@@ -27,7 +27,8 @@ const Ministries: React.FC = () => {
             Kids
           </h3>
           <p className="text-white/90 text-base md:text-lg font-medium leading-relaxed max-w-xs mb-10">
-            Place Holder
+            At One Hope Kids, children meet Jesus, are surrounded by His love, and are encouraged to make a difference wherever they go!
+            (Ages 3–8)
           </p>
         </div>
 
@@ -44,7 +45,8 @@ const Ministries: React.FC = () => {
             Juniors
           </h3>
           <p className="text-white/90 text-base md:text-lg font-medium leading-relaxed max-w-xs mb-10">
-            Place Holder
+            At One Hope Juniors, children build friendships, have fun learning about Jesus, and get equipped to live boldly for Him!
+            (Ages 9–12)
           </p>
         </div>
 
@@ -61,7 +63,8 @@ const Ministries: React.FC = () => {
             Youth
           </h3>
           <p className="text-white/90 text-base md:text-lg font-medium leading-relaxed max-w-xs mb-10">
-            Place Holder
+            One Hope Youth is where students discover more about God’s perfect plan of redemption, build real community, step into leadership, and are activated to impact the world for Him!
+            (Ages 13–18)
           </p>
         </div>
 
